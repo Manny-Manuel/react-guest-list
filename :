@@ -1,0 +1,37 @@
+Create project setup 
+# Bitte geben Sie eine Commit-Beschreibung für Ihre Änderungen ein. Zeilen,
+# die mit '#' beginnen, werden ignoriert, und eine leere Beschreibung
+# bricht den Commit ab.
+#
+# Auf Branch main
+#
+# Initialer Commit
+#
+# Zum Commit vorgemerkte Änderungen:
+#	neue Datei:     .eslintignore
+#	neue Datei:     .eslintrc.cjs
+#	neue Datei:     .gitignore
+#	neue Datei:     README.md
+#	neue Datei:     package.json
+#	neue Datei:     prettier.config.cjs
+#	neue Datei:     public/favicon.ico
+#	neue Datei:     public/index.html
+#	neue Datei:     public/logo192.png
+#	neue Datei:     public/logo512.png
+#	neue Datei:     public/manifest.json
+#	neue Datei:     public/robots.txt
+#	neue Datei:     src/App.css
+#	neue Datei:     src/App.js
+#	neue Datei:     src/App.test.js
+#	neue Datei:     src/Checkbox.js
+#	neue Datei:     src/DataFetching.js
+#	neue Datei:     src/ParentProps.js
+#	neue Datei:     src/index.css
+#	neue Datei:     src/index.js
+#	neue Datei:     src/logo.svg
+#	neue Datei:     src/reportWebVitals.js
+#	neue Datei:     src/setupTests.js
+#	neue Datei:     stylelint.config.cjs
+#	neue Datei:     tsconfig.json
+#	neue Datei:     yarn.lock
+#
